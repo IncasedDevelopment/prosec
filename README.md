@@ -1,4 +1,4 @@
-![Banner](https://github.com/IncasedDevelopment//blob/main/web-gui/prosecot/assets/images/logo/C.png)
+![Banner](https://github.com/IncasedDevelopment/blob/main/web-gui/prosecot/assets/images/logo/C.png)
 #  PROSEC
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/IncasedDevelopment/)
 [![version](https://img.shields.io/badge/version-2.0-blue.svg)](https://github.com/IncasedDevelopment/)
@@ -32,8 +32,8 @@ __Build Bot : Windows,Mac OS and Linux__
 - [x] Kali Linux 2022
 - [x] Ubuntu 2022
 - [ ] Mac OS
-- [ ] Windows 10
-- [ ] Windows 11
+- [x] Windows 10
+- [x] Windows 11
 #### Features
 - [x] Develop
 - [x] GUI
@@ -55,11 +55,11 @@ seeks help to develop Thank you to those who will answer present!
  <tbody style="vertical-align: bottom;">
   <tr>
    <td>
-<div class="highlight highlight-source-shell"><pre># Get the  PROSEC
-git clone https://github.com/IncasedDevelopment/
+<div class="highlight highlight-source-shell"><pre># Get PROSEC
+git clone https://github.com/IncasedDevelopment/prosec
 cd /web-gui</pre></div>
 <div class="highlight highlight-source-shell"><pre># Install the requirements (if the quickcheck does not work*)
-sudo apt install -r requirements.txt</pre></div>
+sudo pip install -r requirements.txt</pre></div>
 <div class="highlight highlight-source-shell"><pre># Quick check of all components and Install
 sudo bash QuickCheck.sh</pre></div>
 <div class="highlight highlight-source-shell"><pre># Will update the script
@@ -78,8 +78,8 @@ sudo Python3 prosecot.pyw</pre></div>
 </table>
 
 ## Preview (no finish in develope)
-![Launcher](https://github.com/IncasedDevelopment//blob/main/web-gui/prosecot/assets/images/screen/LoginVLCAD231119.png)
-![](https://github.com/IncasedDevelopment//blob/main/web-gui/prosecot/assets/images/screen/DashboardVLCAD231119.png)
+![Launcher](https://github.com/IncasedDevelopment/blob/main/web-gui/prosecot/assets/images/screen/LoginVLCAD231119.png)
+![](https://github.com/IncasedDevelopment/blob/main/web-gui/prosecot/assets/images/screen/DashboardVLCAD231119.png)
 
 ## Supporters
 [![Stargazers repo roster for @IncasedDevelopment/](https://reporoster.com/stars/dark/IncasedDevelopment/)](https://github.com/IncasedDevelopment//stargazers)
